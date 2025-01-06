@@ -284,11 +284,9 @@
             const newX = e.clientX - offsetX;
             const newY = e.clientY - offsetY;
     
-            // Atualiza a posição do botão de forma restrita à janela
             cookieButton.style.left = `${Math.max(0, Math.min(window.innerWidth - cookieButton.offsetWidth, newX))}px`;
             cookieButton.style.top = `${Math.max(0, Math.min(window.innerHeight - cookieButton.offsetHeight, newY))}px`;
     
-            // Atualiza a posição da interface de comando
             const cookieRect = cookieButton.getBoundingClientRect();
             const margin = 10;
     
@@ -309,7 +307,7 @@
     document.addEventListener('mouseup', () => {
         if (isDragging) {
             isDragging = false;
-            document.body.style.cursor = ''; // Restaura o cursor padrão
+            document.body.style.cursor = '';
         }
     });
     
