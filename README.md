@@ -1,72 +1,68 @@
-# CookieMaster.js - Control the Cookies!
+# CookieMaster.js - Controle os Cookies!
 
-CookieMaster.js is a simple JavaScript script that allows you to interact with the Cookie Clicker game on a deeper level. You can enhance your gameplay by performing actions like ascending, multiplying cookies, and triggering special effects, all with just a few clicks. This script is for those who want to take their Cookie Clicker game to the next level.
+**CookieMaster.js** é um script simples em JavaScript que permite interagir com o jogo *Cookie Clicker* de forma mais avançada. Com ele, você pode aprimorar sua jogabilidade realizando ações como ascender, multiplicar cookies e ativar efeitos especiais, tudo com apenas alguns cliques. Este script é ideal para quem deseja levar o *Cookie Clicker* a um novo nível.
 
-## Features
+## Funcionalidades
 
-- Ascend and modify your cookie stats.
-- Use cookie multipliers (`x10`, `/10`, `x1k`, `/1k`).
-- Buy and sell objects in bulk.
-- Gain lumps and reset levels.
-- Perform debug actions (for testing and debugging).
-- Trigger special effects like Frenzy, Lucky, Cursed Finger, and more.
+* Ascender e modificar suas estatísticas de cookies.
+* Usar multiplicadores de cookies (`x10`, `/10`, `x1k`, `/1k`).
+* Comprar e vender objetos em massa.
+* Ganhar *lumps* e redefinir níveis.
+* Executar ações de depuração (para testes e ajustes).
+* Ativar efeitos especiais como Frenesi, Sorte, Dedo Amaldiçoado, entre outros.
 
-## How to Use
+## Como Usar
 
-### Step 1: Clone the Repository
+### Passo 1: Clonar o Repositório
 
-To get started, follow these steps:
+Para começar, siga os passos abaixo:
 
-1. **Clone the repository:**
+1. **Clone o repositório:**
 
-   Go to the GitHub repository [CookieMaster.js](https://github.com/YOUR_USERNAME/CookieMaster.js) and click on the green **Code** button, then select **Download ZIP** or **Clone with HTTPS**.
+   Acesse o repositório no GitHub [CookieMaster.js](https://github.com/YOUR_USERNAME/CookieMaster.js), clique no botão verde **Code** e selecione **Download ZIP** ou **Clone with HTTPS**.
 
-2. **Download the script** by clicking on the green "Code" button, then select **Download ZIP**. Extract the ZIP file on your computer.
+2. **Baixe o script** clicando no botão verde "Code", depois selecione **Download ZIP**. Extraia o arquivo ZIP no seu computador.
 
-### Step 2: Open Cookie Clicker
+### Passo 2: Acesse o Cookie Clicker
 
-1. Go to the [Cookie Clicker game](https://orteil.dashnet.org/cookieclicker/) in your browser.
+1. Abra o jogo [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) no seu navegador.
 
-### Step 3: Open the Developer Tools Console
+### Passo 3: Abra o Console de Ferramentas do Desenvolvedor
 
-1. Press **F12** or right-click on the page and select **Inspect** (depending on your browser).
-2. Go to the **Console** tab in Developer Tools.
+1. Pressione **F12** ou clique com o botão direito na página e selecione **Inspecionar** (dependendo do navegador).
+2. Vá até a aba **Console** nas ferramentas do desenvolvedor.
 
-### Step 4: Copy and Paste the Script
+### Passo 4: Copie e Cole o Script
 
-1. Open the `CookieMaster.js` file you downloaded from the repository.
-2. Copy all of the code in the file.
-3. Paste the code into the **Console** tab of your browser's Developer Tools.
+1. Abra o arquivo `CookieMaster.js` que você baixou do repositório.
+2. Copie todo o código presente no arquivo.
+3. Cole o código na aba **Console** das ferramentas do desenvolvedor do seu navegador.
 
-### Step 5: Execute the Script
+### Passo 5: Execute o Script
 
-1. After pasting the code, press **Enter** to execute the script.
-2. The script will now be active, and you'll see a new menu in the Cookie Clicker interface.
+1. Após colar o código, pressione **Enter** para executá-lo.
+2. O script será ativado, e um novo menu aparecerá na interface do Cookie Clicker.
 
-### Step 6: Enjoy the Features!
+### Passo 6: Aproveite os Recursos!
 
-The new menu will appear within the game, and you can now click on the options to trigger the desired actions, such as ascending, multiplying cookies, or triggering Frenzy!
+O novo menu aparecerá dentro do jogo, permitindo que você clique nas opções para realizar ações como ascender, multiplicar cookies ou ativar o modo Frenesi.
 
-## Example Actions
+## Exemplos de Ações
 
-Here are some of the available actions that you can trigger by clicking on the options in the new menu:
+Veja algumas das ações disponíveis que podem ser ativadas pelo novo menu:
 
-- **Ascend**: Ascends your game to start over with a bonus.
-- **x10**: Multiply cookies by 10.
-- **/10**: Divide cookies by 10.
-- **Buy 100 of all**: Buy 100 of every object in the game.
-- **Reset levels**: Reset all object levels to 0.
-- **Frenzy**: Trigger a frenzy for more cookies.
-- **Max Heralds**: Set the heralds to the maximum value.
+* **Ascender**: Reinicia o jogo com bônus acumulados.
+* **x10**: Multiplica os cookies por 10.
+* **/10**: Divide os cookies por 10.
+* **Comprar 100 de todos**: Compra 100 unidades de cada objeto no jogo.
+* **Redefinir níveis**: Redefine todos os níveis dos objetos para 0.
+* **Frenesi**: Ativa o modo Frenesi para obter mais cookies.
+* **Máximo de Arautos**: Define os arautos para o valor máximo permitido.
 
-## Contributions
+## Contribuições
 
-If you'd like to contribute to CookieMaster.js, feel free to fork the repository, make changes, and create a pull request. We welcome suggestions and improvements!
+Se quiser contribuir com o projeto *CookieMaster.js*, fique à vontade para fazer um fork do repositório, implementar melhorias e enviar um *pull request*. Sugestões e melhorias são sempre bem-vindas!
 
-## License
+## Licença
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Enjoy your enhanced Cookie Clicker experience!**
+Este projeto está licenciado sob a Licença MIT – consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
